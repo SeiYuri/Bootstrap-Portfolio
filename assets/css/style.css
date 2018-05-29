@@ -1,0 +1,111 @@
+h1 {
+    font-family: 'Times New Roman';
+    font-weight: bold;
+    color: #8cdae6;
+}
+
+#tabsnav {
+    margin-left: 550px;
+    margin-top: -63px;
+    border-bottom: 0px;
+}
+
+#home {
+    color: #8cdae6;
+}
+
+#about {
+
+    color: #54d1e4;
+}
+
+#contact {
+
+    color: #54d1e4;
+}
+
+#second container {
+    background-color: white;
+}
+
+.thumbnail {
+    margin-top: 45px;
+    background-color: transparent;
+    border: none;
+    -webkit-transition: margin 0.5s ease-out;
+    -moz-transition: margin 0.5s ease-out;
+    -o-transition: margin 0.5s ease-out;
+}
+
+h2, p {
+    margin: 7px;
+}
+
+h2 {
+    font-family: 'Times New Roman';
+    font-weight: bold;
+    color: #8cdae6;
+    padding: 2px;
+}
+
+.thumbnail:hover {
+    margin-top: -3px;
+}
+
+body {
+    padding-top: 70px;
+    width: 960px; 
+    background-image: url("http://3.bp.blogspot.com/-BApvhIHR_Mk/T5O8y8r4vrI/AAAAAAAAAJA/xjLdy9dFB2I/s000/pinstripe.png");
+    font-family: 'sans-serif';
+    font-size: 15px; 
+    color: #777777;
+    padding: 34px 85px 74px; 
+    margin: 5px 9px 5px 20px;
+}
+
+.aboutpgcontent {
+    background-color: white;
+    padding: 20px 27px 20px 21px;
+}
+
+.col-xs-3 {
+    margin: -10px;
+    padding-top: 40px;
+    padding-bottom: 70px;
+}
+
+#website-thumbnail {
+    border: solid #8cdae6 1px;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+}
+
+#website-thumbnail:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+
+.col-xs-4 {
+    margin: -10px;
+    padding-top: 40px;
+    padding-bottom: 70px;
+}
+
+@media screen and (max-width: 980px) {
+
+}
+
+@media screen and (max-width: 768px) {
+    body {
+        width: 100%;
+        padding: 0px;
+    }
+
+}
+
+@media screen and (max-width: 640px) {
+    body {
+        width: 100%;
+        padding: 0px;
+    }
+}
